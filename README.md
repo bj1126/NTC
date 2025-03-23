@@ -6,4 +6,4 @@
 
 #### Thank you all
 
-##### NTC mean 'Need to Commit'
+##### NTC means 'Need to Commit'
